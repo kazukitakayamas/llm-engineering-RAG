@@ -4,6 +4,9 @@
 <br>
 なお、Google Colabで実装確認する際は、下記のボタンをクリックいただきたい。
 
+**[![Open In Colab (コード翻訳)][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kazukitakayamas/llm-code-translation-tasks/blob/main/BELU-score-vllm-inference.ipynb)](https://github.com/kazukitakayamas/llm-engineering-RAG/blob/main/rag.ipynb)**
+<br>
+
 
 検証結果として結論から申すと、文脈を考慮したチャンク化の導入（炎症ノートブックの3）が人から見ても、スコア上でも精度が高かった。
 <br>
