@@ -3,8 +3,8 @@
 本リポジトリは、AIエンジニアリング講座第3回の任意課題において出された、RAGの検証実験の結果を書き示したものである。
 <br>
 なお、Google Colabで実装確認する際は、下記のボタンをクリックいただきたい。
+**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kazukitakayamas/llm-engineering-RAG/blob/main/rag.ipynb)**
 
-**[![Open In Colab (コード翻訳)](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/kazukitakayamas/llm-engineering-RAG/blob/main/rag.ipynb)**
 <br>
 
 
