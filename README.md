@@ -25,15 +25,20 @@
 <br>
 ソース: https://arxiv.org/abs/2504.20834
 <br>
+<br>
 2. 表現学習の新手法に関する論文発表について(RKDO(Recursive KL Divergence Optimization: A Dynamic Framework for Representation Learning))※2025/4以降に発表の論文の内容を抜粋
 <br>
 ソース: https://arxiv.org/abs/2504.21707
 <br>
+<br>
 3. 2025年4月時点の日本の総理大臣について。※当然だが、Llama3リリース時点(2024年4月)では、岸田文雄が総理大臣のため、検証がしやすい
+<br>
 <br>
 4. DeepSeekショックとは何かについて。2025年早々に起きたML業界へのショッキングニュースを扱ってみた。これをRAGで適切に取ってこれるかを見たい。
 <br>
+<br>
 5. MCP(Model Context Protocol)とは何かについて。Anthoropicが出したAIが様々なものに繋がるためのルールのようなもので、これも比較的新しい概念のため、RAGにより正しく取れるかを確認したい。
+<br>
 
 ## 2. RAGの実装方法と工夫点について
 <br>
